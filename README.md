@@ -1,4 +1,7 @@
-### Hi there 👋
+### 一个封装的艺术家 👨‍🎨
+
+#### I used to want to change the world..
+
 - 📫  QQ:1695415918
 - 📧  Email:1695415918@qq.com
 
