@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 📫 QQ:1695415918
-- 📧 Email:1695415918@qq.com
+- 📫  QQ:1695415918
+- 📧  Email:1695415918@qq.com
 
 <!--
 **erqiu-sj/erqiu-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
