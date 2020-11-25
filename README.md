@@ -1,8 +1,9 @@
 # 一个封装的艺术家 👨‍🎨
 
+## I also want to leave something for the world 
 如果你恰巧时间充裕，不妨看看我最近的代码
 
-每一行都恰到好处
+每一行都妙不可言
 
 
 
