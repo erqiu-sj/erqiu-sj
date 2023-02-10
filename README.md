@@ -3,6 +3,8 @@
 
 ![rickstaa](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erqiu-sj&theme=dark)
 
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=erqiu-sj&theme=dark)
+
 
 - 📧  Email:1695415918@qq.com
 
