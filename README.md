@@ -1,7 +1,7 @@
 
 ## I also want to leave something for the world 
 
-![rickstaa](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erqiu-sj)
+![rickstaa](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erqiu-sj&theme=dark)
 
 
 - 📧  Email:1695415918@qq.com
